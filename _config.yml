@@ -1,7 +1,7 @@
 # Setup
 title: Hot Potato
 description: Success = Do.steady();
-url: https://vszhub.github.io
+url: https://hotpotato.me
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: hotpotato
+  url: https://github.com/0package
+  email: archiveyeong@gmail.com
