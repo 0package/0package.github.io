@@ -15,7 +15,7 @@
 
 .avatar-image {
   width: 30vm;
-  //height: 30vw;//auto;
+  height: auto;
   aspect-ratio: 1 / 1;
   object-fit: cover; //이미지가 잘리더라도 비율 유지하며 꽉차보이게 함. 가로세로비율을 1대1로 해주며서 크기 자동조절은 aspect-ratio: 1/1;
   border-radius: 50%;
