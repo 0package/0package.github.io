@@ -16,8 +16,8 @@
 .avatar-image {
   width: 30%;
   height: auto;
-  //aspect-ratio: 1 / 1;
-  //object-fit: cover; //이미지가 잘리더라도 비율 유지하며 꽉차보이게 함. 가로세로비율을 1대1로 해주며서 크기 자동조절은 aspect-ratio: 1/1;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;//이미지가 잘리더라도 비율 유지하며 꽉차보이게 함. 가로세로비율을 1대1로 해주며서 크기 자동조절은 aspect-ratio: 1/1;
   border-radius: 50%;
   display: block;
   margin: 0 auto;
@@ -89,5 +89,7 @@
 @media (max-width: $md-width) {
   .avatar-image {
     width: 20%; //15%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
   }
 }
