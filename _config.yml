@@ -5,7 +5,7 @@ url: https://0pacakge.github.io #https://hotpotato.me
 avatar: /profile.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.png
+cover_image: /bg.jpg
 theme_color: auto # light, dark, auto
 
 # Gems
